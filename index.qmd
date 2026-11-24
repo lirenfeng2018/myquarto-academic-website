@@ -67,7 +67,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-This is a [Quarto Academic Website ](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Renfeng Li](http://drganghe.github.io).
+This is a [Quarto Academic Website ](https://github.com/drganghe/quarto-academic-website-template) adapted by [Professor. Renfeng Li](http://drganghe.github.io).
 
 I'm a template that you can fork to build your own website with easy adaptation and deployment.
 
