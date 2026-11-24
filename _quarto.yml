@@ -9,9 +9,9 @@ description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 author-meta: "Dr. Gang He"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  title: "My Quarto Academic"
+  image: "/files/images/quarto.png"  # Must be a path inside the site (a remote URL breaks RSS feed generation on Windows)
+  description: "Quarto Academic Website adapted by Dr. Renfeng Li"
  
   navbar:
     background: light  # You can change the background color here
