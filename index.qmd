@@ -69,9 +69,6 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 This is a [Quarto Academic Website ](https://github.com/drganghe/quarto-academic-website-template) adapted by [Renfeng Li](http://drganghe.github.io).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
 
 Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
 
@@ -83,9 +80,9 @@ Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/qua
 
 ## Education
 
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+- PhD, Northwest University
+- Master, University
+- Bachelor, University
 
 :::
 
